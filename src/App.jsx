@@ -1,23 +1,22 @@
-export default function App() {
-  return (
-    <div style={{padding: "40px", fontFamily: "Arial"}}>
-      <h1>Jenrec 🚀</h1>
-      <p>This is the NEW upgraded site.</p>
+<h1>Jenrec 🚀</h1>
+<p>We help businesses grow with powerful websites.</p>
 
-      <section>
-        <h2>About</h2>
-        <p>We build modern, professional websites.</p>
-      </section>
+<h2>About</h2>
+<p>
+We design and build modern, fast, and professional websites for businesses
+that want to stand out online.
+</p>
 
-      <section>
-        <h2>Services</h2>
-        <p>Web development, branding, and digital presence.</p>
-      </section>
+<h2>Services</h2>
+<p>
+• Website Design<br/>
+• Business Branding<br/>
+• Online Presence Setup<br/>
+• Landing Pages
+</p>
 
-      <section>
-        <h2>Contact</h2>
-        <p>Email: hello@jenrec.com</p>
-      </section>
-    </div>
-  )
-}
+<h2>Contact</h2>
+<p>
+Email: hello@jenrec.com<br/>
+WhatsApp: +27 XXX XXX XXX
+</p>
